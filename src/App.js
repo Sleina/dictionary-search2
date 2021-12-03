@@ -14,7 +14,7 @@ export default function App() {
           <Dictionary defaultKeyword="sunset" />
         </main>
         <footer className="App-footer">
-          <small>Coded by Selina </small>
+          <small>Coded by Selina (not working in German, use English)</small>
         </footer>
       </div>
     </div>
